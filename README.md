@@ -1,4 +1,5 @@
 # 用 LINE 官方帳號建立「請假通知表單」的簡易流程
+<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/441f2e94-8a5a-4df1-8571-0a61d0b82840" />
 
 ## 一、可以做到什麼？
 
